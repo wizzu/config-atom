@@ -34,6 +34,4 @@
 
 'atom-workspace atom-text-editor:not([mini])':
   'shift-cmd-down': 'editor:move-line-down'
-
-'atom-workspace atom-text-editor:not([mini])':
   'shift-cmd-up': 'editor:move-line-up'
