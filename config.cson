@@ -7,5 +7,6 @@
   editor:
     invisibles: {}
     softTabs: false
+    fontSize: 15
   "one-dark-ui":
     layoutMode: "Compact"
