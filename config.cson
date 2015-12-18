@@ -1,0 +1,11 @@
+"*":
+  "exception-reporting":
+    userId: "c5a39ff8-c2ef-48b4-aaf9-a0fed02deda0"
+  welcome:
+    showOnStartup: false
+  core: {}
+  editor:
+    invisibles: {}
+    softTabs: false
+  "one-dark-ui":
+    layoutMode: "Compact"
